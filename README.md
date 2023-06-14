@@ -14,7 +14,7 @@ WebStorm/VisualStudio - JavaScript, HTML, CSS
 
 # 📎 Create by:
 
-▶️ Eden Tzarfaty : EdenRivk@post.bgu.ac.il ,
-ID:209299684
+▶️ Eden Tzarfaty : EdenRivk@post.bgu.ac.il , edensar10@gmail.com
+
 
 
