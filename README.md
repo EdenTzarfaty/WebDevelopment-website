@@ -6,7 +6,7 @@ https://web-development-environments-2023.github.io/209299684/
 
 
 # Description
-I builed a website about my father, Albert
+As part of an online development environments course, I builed a website about my father, Albert.
 
 # 💡 Platforms
 WebStorm/VisualStudio - JavaScript, HTML, CSS
